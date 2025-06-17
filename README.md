@@ -6,7 +6,8 @@ Voice Input: Press the Spacebar or click "Start Recording" to use the microphone
 Text Input: Type messages to interact with the avatar.
 Avatar Response: The avatar speaks responses using text-to-speech.
 
-Clone - https://github.com/anomalisfree/Unity-Text-to-Speech-using-Google-Cloud/tree/main/Assets
+Clone - https://github.com/anomalisfree/Unity-Text-to-Speech-using-Google-Cloud
+https://github.com/UnityGameStudio/Gemini-Unity-Google-Cloud
 
 Build for Windows:
 In Unity, go to File > Build Settings, select PC, Mac & Linux Standalone, Target Platform: Windows.
